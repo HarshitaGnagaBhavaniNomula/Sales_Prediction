@@ -5,12 +5,13 @@
 In this project Store Sales Prediction using machine learning and python, the task is to predict the sales of different stores based on the attributes available in the dataset. Predictive analytics can help us to study and discover the factors that determine the number of sales that a retail store will have in the future by using different machine learning techniques and trying to determine the best algorithm suited to our particular problem statement. We have implemented normal regression techniques and  have found that the  Random Forest Regressor have better results than the regular regression algorithms.
 
 There are few steps involved in the project:
+# First stage:
+
 # Exploratory Data Analysis (EDA)
     
  In this phase, we performed Exploratory Data Analysis (EDA) to gain insights into the dataset and prepare it for the predictive modeling phase. Here's a summary of our EDA process:
    Certainly! Below is a sample content that you can include in the README file for your sales prediction project, focusing on the Exploratory Data Analysis (EDA) part:
 
-# First stage:
 
  1. Summary Statistics:
 - Calculated key summary statistics such as mean, median, mode, standard deviation, minimum, and maximum for numerical features like sales, item weights, etc.
@@ -46,7 +47,7 @@ This EDA phase provided a comprehensive understanding of the dataset, guiding th
          1.Root Mean Squared Error
          2. R-squared score
 
-  Third Stage:
+  # Third Stage:
   # Deployment
   
   -Dependencies
