@@ -1,4 +1,4 @@
-#Welcome to the Sales Prediction Project!
+# Welcome to the Sales Prediction Project!
 
 
 ## Sales Prediction 
